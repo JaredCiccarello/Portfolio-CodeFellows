@@ -5,12 +5,12 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/JaredCiccarello?tab=repositories",
+          "url": "https://github.com/JaredCiccarello",
           "class": "fab fa-github"
         },
         {
           "name": "LinkedIn",
-          "url": "https://www.linkedin.com/in/jared-ciccarello-1529b4140/",
+          "url": "https://www.linkedin.com/in/jared-ciccarello",
           "class": "fab fa-linkedin"
         }
       ],
@@ -34,34 +34,14 @@
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "",
+          "class": "",
+          "level": ""
         }
       ]
     }
