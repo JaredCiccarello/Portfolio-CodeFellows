@@ -1,5 +1,13 @@
 # Modify this portfolio
 
+
+
+header.js
+data-icon="twemoji:mouse"
+Changing front page animal icon
+
+
+
 Make it your own! 
 
 https://jaredportfoliocodefellows.netlify.app/
