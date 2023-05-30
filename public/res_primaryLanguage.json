@@ -1,9 +1,9 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Jared Ciccarello. I'm working with newest front-end frameworks like JavaScript, Python and React. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "He who has a why to live, can survive almost any how.",
+      "description": "As a software engineer who transitioned from a military background, I bring a unique blend of discipline, adaptability, and problem-solving skills to the world of technology. My military training helps me to excel in analyzing and dissecting complex problems, breaking them down into manageable components, and finding creative and efficient solutions. My ability to think critically and strategically allows me to design and implement robust software architectures that address both current and future needs.",
       "section_name": {
-        "about": "As a software engineer who transitioned from a military background, I bring a unique blend of discipline, adaptability, and problem-solving skills to the world of technology.",
+        "about": "👋 I'm Jared Ciccarello. I'm working with newest front-end frameworks like JavaScript, Bootstrap and React. What you are seeing now is a portfolio of all of my recent projects.",
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience"
@@ -13,7 +13,7 @@
       {
         "title": "LazyTravelers",
         "startDate": "2023",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all travel processess and allows users to store all evidence on traveling from main page.",
+        "description": "Our site, gives you a large array of photos from all over the world from places that us developers have personally explored! Once you see an image you like, all you have to do is vote on it and hit the results button. The purpose of this project is to give you ideas of where to travel next, along with convenient websites to help you book or find out how much you have to budget.",
         "images": [
           "images/portfolio/animal-shelter/LazyTravelers.png",
           "images/portfolio/animal-shelter/LazyTravelers1.png"
@@ -37,7 +37,7 @@
       {
         "title": "Odd-Duck",
         "startDate": "2023",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "This project, was created with the help of languages like Javascript and CSS. The purpose of this website is to give you fun images that didn't quite hit their target demographic and let you vote on those images. Once you're done voting, all you have to do is hit the results button and you'll get a graph of your most liked image.",
         "images": [
           "images/portfolio/photography/OddDuck.png",
           "images/portfolio/photography/OddDuck1.png"
@@ -61,7 +61,7 @@
       {
         "title": "Salmon Cookies",
         "startDate": "2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "This was one of the first major projects that I worked on. The purpose of this website was to give you random cities that are selling products. We take those numbers and predict what the outcome might be based on an algorithm that we create. The result is a table that produces new outputs based on range of numbers that we generate through a random number generator.",
         "images": [
           "images/portfolio/adventure/SalmonCookies.png",
           "images/portfolio/adventure/SalmonCookies1.png"
